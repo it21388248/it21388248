@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Kavindi Fernando</h1>
-<h3 align="center">A Software ENgineering Undergraduate at SLIIT</h3>
+<h3 align="center">A Software Engineering Undergraduate at SLIIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21388248&label=Profile%20views&color=0e75b6&style=flat" alt="it21388248" /> </p>
 
