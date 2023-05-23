@@ -1,5 +1,9 @@
+
+<img align="center" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1000" height="300" />
 <h1 align="center">Hello 👋, I'm Kavindi Fernando</h1>
 <h3 align="center">A Software Engineering Undergraduate at SLIIT</h3>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500" height="300" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21388248&label=Profile%20views&color=0e75b6&style=flat" alt="it21388248" /> </p>
 
@@ -14,6 +18,8 @@
 - 📫 How to reach me **kavi.fernando2001@gmail.com**
 
 - ⚡ Fun fact **I think Im funny**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
