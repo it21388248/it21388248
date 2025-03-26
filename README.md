@@ -7,13 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21388248&label=Profile%20views&color=0e75b6&style=flat" alt="it21388248" /> </p>
 
-- 🌱 I’m currently learning **MERN (MongoDB, Express.js, React.js, Node.js) and Kotlin.**
+- 🌱 I’m currently learning **MERN (MongoDB, Express.js, React.js, Node.js) **
 
 - 👯 I’m looking to collaborate on **open-source**
 
 - 🤝 I’m looking for help with **advanced front-end development techniques and optimizing application performance.**
-
-- 💬 Ask me about **react,C**
 
 - 📫 How to reach me **kavi.fernando2001@gmail.com**
 
